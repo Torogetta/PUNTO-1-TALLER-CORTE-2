@@ -1,0 +1,9 @@
+mundial\view\ConsolaView.class
+mundial\model\Equipo.class
+mundial\model\Competidor.class
+mundial\model\Competencia.class
+edu\uao\mundialciclismo\MainMundial.class
+mundial\model\RankingService.class
+mundial\model\Fondista.class
+mundial\model\Velocista.class
+mundial\controller\CompetenciaController.class
